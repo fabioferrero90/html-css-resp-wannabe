@@ -141,9 +141,7 @@ img {
 }
 
 @media screen and (max-width:480px) {
-    .lessons .row,
-    .steps .row,
-    .why-us .row{
+    .row {
         flex-direction: column;
     }
 
